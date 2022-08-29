@@ -8,10 +8,11 @@ Currently, there are many Covid-19 data available online. My main goal is to use
 In this app, users can either visit the map or the trend graphs.
 For map, users can chose among test rate map, hospitalized rate map, death rate map, case rate map and the percentage positive map. 
 Map contains the hover effect. When users move their mouse over on the desired area, it will pop out a basic message of the COVID-19 situation in this area. 
+<br>![alt text](https://github.com/yam020/NYCCIC/blob/main/img/Screen%20Shot%202022-08-29%20at%2014.40.44.png)
 For trend graphs, users can chose among test rate graphs, hospitalized rate graphs, death rate graphs and case rate map. 
 Users can chose what zipcodes they want to observe. The number of the zipcodes users can type is unlimited. 
 The trend graphs have both selection effect and hover effect. 
-
+<br>![alt text](https://github.com/yam020/NYCCIC/blob/main/img/visualization.png)
 ### How to use my website? 
 Open the browser and enter https://nyccic.herokuapp.com/
 Or you can click [here](https://nyccic.herokuapp.com/)
